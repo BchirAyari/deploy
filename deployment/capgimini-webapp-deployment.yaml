@@ -17,4 +17,4 @@ spec:
       - image: ayaribechir/devopspfe:latest
         name: capgimini-webapp
         ports:
-        - containerPort: 8082
+        - containerPort: 82

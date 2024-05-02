@@ -4,7 +4,7 @@ metadata:
   name: capgimini-webapp
 spec:
   ports:
-  - port: 8082
-    targetPort: 8082
+  - port: 82
+    targetPort: 82
   selector:
     app: capgimini-webapp
