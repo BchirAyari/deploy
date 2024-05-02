@@ -14,7 +14,7 @@ spec:
         app: capgimini-webapp
     spec:
       containers:
-      - image: ayaribechir/devopspfe:latest
+      - image: hello-world
         name: capgimini-webapp
         ports:
         - containerPort: 82
